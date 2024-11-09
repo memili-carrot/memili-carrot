@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo_jx)](https://solved.ac/memilgoon020828)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=memilgoon020828)](https://solved.ac/memilgoon020828)
 
 ## 🛠 Development Tools
 
