@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo_jx)](https://solved.ac/memilgoon020828)
+
 ## 🛠 Development Tools
 
 <p><strong>Development Tools</strong></p>
@@ -11,6 +14,7 @@
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white">
 </div>
+
 
 
 
